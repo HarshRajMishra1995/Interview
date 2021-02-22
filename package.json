@@ -4,7 +4,7 @@
   "description": "This repository contains problem that are helpful during interview preperation",
   "main": "index.js",
   "scripts": {
-    "dev":"nodemon bubblesort.js",
+    "dev":"nodemon bubblesort.js index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
