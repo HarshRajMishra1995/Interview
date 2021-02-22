@@ -1,0 +1,12 @@
+a='hello'
+b='ellos'
+a=a.split('').sort().join('');
+    b=b.split('').sort().join('');
+    if(a==b)
+    {
+        console.log('YES')
+    }
+    else
+    {
+        console.log('NO')
+    }
