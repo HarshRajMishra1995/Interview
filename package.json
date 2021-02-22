@@ -1,0 +1,24 @@
+{
+  "name": "Interview",
+  "version": "1.0.0",
+  "description": "This repository contains problem that are helpful during interview preperation",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon bubblesort.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshRajMishra1995/Interview.git"
+  },
+  "keywords": [],
+  "author": "Harsh Raj Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarshRajMishra1995/Interview/issues"
+  },
+  "homepage": "https://github.com/HarshRajMishra1995/Interview#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
